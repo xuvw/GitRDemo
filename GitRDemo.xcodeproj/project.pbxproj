@@ -13,6 +13,7 @@
 		506E10351DCB0C19000E5BAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 506E10341DCB0C19000E5BAB /* Assets.xcassets */; };
 		506E10381DCB0C19000E5BAB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 506E10361DCB0C19000E5BAB /* LaunchScreen.storyboard */; };
 		506E10401DCB0E59000E5BAB /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506E103F1DCB0E59000E5BAB /* HomePageViewController.swift */; };
+		50B3CFAA1DCC2F34009E3B04 /* readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = 50B3CFA91DCC2F34009E3B04 /* readme.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		506E10371DCB0C19000E5BAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		506E10391DCB0C19000E5BAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		506E103F1DCB0E59000E5BAB /* HomePageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
+		50B3CFA91DCC2F34009E3B04 /* readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				506E10361DCB0C19000E5BAB /* LaunchScreen.storyboard */,
 				506E10391DCB0C19000E5BAB /* Info.plist */,
 				506E103F1DCB0E59000E5BAB /* HomePageViewController.swift */,
+				50B3CFA91DCC2F34009E3B04 /* readme.txt */,
 			);
 			path = GitRDemo;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				506E10381DCB0C19000E5BAB /* LaunchScreen.storyboard in Resources */,
 				506E10351DCB0C19000E5BAB /* Assets.xcassets in Resources */,
+				50B3CFAA1DCC2F34009E3B04 /* readme.txt in Resources */,
 				506E10331DCB0C19000E5BAB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				506E103E1DCB0C19000E5BAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
